@@ -19,12 +19,12 @@ Challenges:
   3. Modify the action of this task so it instead prints your name.
   4. Figure out my favorite type of candy.
 
-*/
+*/ 
 
 task hello {
     description "Hey student! Run this one :D"
     group "Our demo"
     doLast {
-        println "Hello World!"
+        println "Hello, Jefferson!"
     }
 }
